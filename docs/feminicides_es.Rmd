@@ -1,5 +1,5 @@
 ---
-title: "Feminicidios en America Latina y el Caribe"
+title: "Feminicidios en Latino América y el Caribe"
 author: "Ian Flores Siaca"
 date: "16 de noviembre de 2018"
 output: 
