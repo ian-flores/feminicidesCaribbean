@@ -26,6 +26,10 @@ You need to have installed the R language.
 - `ggthemr`
 - `feather`
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ## Acknowledgment
 
 The original code to download the data from the CEPAL was modified from here: https://github.com/nicholasbucher/R_Scripts/blob/f79023c9a177097b4312279328b15cbe11c0381a/Cepal_API.R
