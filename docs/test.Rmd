@@ -2,16 +2,22 @@
 title: "Feminicides in Latin America and the Caribbean"
 author: "Ian Flores Siaca"
 date: "November 16, 2018"
-output: html_document
+output: 
+  prettydoc::html_pretty:
+        theme: hpstr
+        includes:
+            in_header: GA_Script.html
 editor_options: 
   chunk_output_type: console
 ---
 
-### Context
+## Context
 
-According to statistics from the Puerto Rico Police Department reported in a local newspaper there's been 21 feminicides in 2018 in the island. However, how do we define feminicide? The *Femicide Across Europe Network*, a project financed by the European Union to study feminicides, defines them as "the intentional killing of females (women or girls) because they are females". One of the problems with handling this cases is the lack of specific protocols to handle these cases. Dr. Rita Laura Segato has studied this processes for years and explains that different types of violence against women are confused with one another and thus englobed in a category of passional crimes or relationship/love crimes. This over-simplification of the process makes it harder to understand the causes and circumstances behind each case. It also has the effect of diminishing the perception of the rising number of cases that occur outside relationships. She has suggested creating more specific definitions of the different sub-types of feminicides to handle this englobing of the cases.
+According to statistics from the Puerto Rico Police Department reported this week in a newspaper from Puerto Rico, there's been 21 feminicides in 2018 in the island. [1] However, how do we define feminicide? The *Femicide Across Europe Network*, a project financed by the European Union to study feminicides, defines them as "the intentional killing of females (women or girls) because they are females". [2] One of the problems with handling this cases is the lack of specific protocols to handle these cases. Dr. Rita Laura Segato has studied this processes for years and explains that different types of violence against women are confused with one another and thus englobed in a category of passional crimes or relationship/love crimes. This over-simplification of the process makes it harder to understand the causes and circumstances behind each case. It also has the effect of diminishing the perception of the rising number of cases that occur outside relationships. She has suggested creating more specific definitions of the different sub-types of feminicides to handle this englobing of the cases. [3]
 
-Given this, I wanted to look at the trends of feminicides in the Caribbean and Latin America. The Economic Comission for Latin America and the Caribbean from the United Nations (CEPAL, in Spanish) has been collecting the total number of cases in each country per year and makes it available through XML documents. I parsed this documents to extract the data, visualize it and make it accesible to researchers, non-profits and governments. I divided the data in 3 regions to handle it with more detail, the Caribbean, Central America, and the countries in the continental Latin America. For the Caribbean region, the CEPAL only had data for five countries, of which only one is from the Greater Antilles. For the Central America region the CEPAL had data for seven countries with El Salvador having the highest number in 2017 in all Latin America with 345 women killed. For the continental countries, the CEPAL had data for five countries as well. From these countries, only Argentina, Paraguay, and Peru had a specialized register for feminicides. One of the things that could be investigated further is if it is more helpful to have Police Departments or specialized registers of bureaus collect and analyze this data to design intervention programs to address this problematic.  
+Given this, I wanted to look at the trends of feminicides in the Caribbean and Latin America. The Economic Comission for Latin America and the Caribbean from the United Nations (CEPAL, in Spanish) has been collecting the total number of cases in each country per year and makes it available through XML documents. [4] I parsed this documents to extract the data, visualize it and make it accesible to researchers, non-profits and governments. I divided the data in 3 regions to handle it with more detail, the Caribbean, Central America, and the countries in the continental Latin America. For the Caribbean region, the CEPAL only had data for five countries, of which only one is from the Greater Antilles. For the Central America region the CEPAL had data for seven countries with El Salvador having the highest number in 2017 in all Latin America with 345 women killed. For the continental countries, the CEPAL had data for five countries as well. From these countries, only Argentina, Paraguay, and Peru had a specialized register for feminicides. One of the things that could be investigated further is if it is more helpful to have Police Departments or specialized registers of bureaus collect and analyze this data to design intervention programs to address this problematic.  
+
+## Data Available
 
 ### Data for the Caribbean
 
@@ -30,10 +36,10 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(tidyverse)
 ```
 
-<img src ="results/line_caribbean_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<img src ="../results/line_caribbean_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 </br>
 </br>
-<img src ="results/bar_caribbean_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<img src ="../results/bar_caribbean_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 </br>
 </br>
 
@@ -70,15 +76,15 @@ For Central America we have data for seven countries:
 | Panama | 2014 - 2017 |
 | El Salvador | 2014 - 2017 |
 
-<img src ="results/line_central-america_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<img src ="../results/line_central-america_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 </br>
 </br>
-<img src ="results/bar_central-america_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<img src ="../results/bar_central-america_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 </br>
 </br>
 
 ```{r}
-data <- read_csv('data/central-america_countries.csv')
+data <- read_csv('https://raw.githubusercontent.com/ian-flores/feminicidesLATAM/master/data/central-america_countries.csv')
 ```
 
 ```{r}
@@ -108,15 +114,15 @@ For the Continental Latin America we have data for five countries:
 | Argentina | 2014 - 2017 |
 | Ecuador | 2014 - 2017 |
 
-<img src ="results/bar_continental-latam_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<img src ="../results/bar_continental-latam_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 </br>
 </br>
-<img src ="results/line_continental-latam_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
+<img src ="../results/line_continental-latam_countries.svg" style="width: 75%; display: block; margin-left: auto; margin-right: auto;">
 </br>
 </br>
 
 ```{r}
-data <- read_csv('data/continental-latam_countries.csv')
+data <- read_csv('https://raw.githubusercontent.com/ian-flores/feminicidesLATAM/master/data/continental-latam_countries.csv')
 ```
 
 ```{r}

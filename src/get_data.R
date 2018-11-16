@@ -16,7 +16,7 @@ get_data <- function(indicator_response, .country_of_interest){
         
         base_url <-paste0("http://interwp.cepal.org/sisgen/ws/cepalstat/getDataMeta.asp?IdIndicator=", indicator_id)
         full_url <-paste0(base_url, "&language=", "spanish", "&dim_208=", country_id, "&dim_29117=", year_id)
-        print(full_url)
+        #print(full_url)
         
         data_response <-GET(full_url)
         data_response <-xmlToList(xmlParse(read_xml(data_response)))
