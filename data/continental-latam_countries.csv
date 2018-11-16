@@ -1,0 +1,40 @@
+country,iso3,year,value,source_id
+Argentina,ARG,2014,225," Corte Suprema de Justicia de la Nación, Registro Nacional de Femicidios de la Justicia Argentina "
+Argentina,ARG,2015,235," Corte Suprema de Justicia de la Nación, Registro Nacional de Femicidios de la Justicia Argentina "
+Argentina,ARG,2016,254," Corte Suprema de Justicia de la Nación, Registro Nacional de Femicidios de la Justicia Argentina "
+Argentina,ARG,2017,251," Corte Suprema de Justicia de la Nación, Registro Nacional de Femicidios de la Justicia Argentina "
+Ecuador,ECU,2014,27, Subcomisión Técnica de Validación de la Comisión Especial Interinstitucional de Seguridad y Justicia 
+Ecuador,ECU,2015,55, Subcomisión Técnica de Validación de la Comisión Especial Interinstitucional de Seguridad y Justicia 
+Ecuador,ECU,2016,67, Subcomisión Técnica de Validación de la Comisión Especial Interinstitucional de Seguridad y Justicia 
+Ecuador,ECU,2017,109, Subcomisión Técnica de Validación de la Comisión Especial Interinstitucional de Seguridad y Justicia 
+Paraguay,PRY,2006,32,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2007,27,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2008,16,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2009,30,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2010,27,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2011,32,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2012,36,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2013,25,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2014,32,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2015,18,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2016,38,Policia Nacional y del Ministerio de la Mujer.
+Paraguay,PRY,2017,53,Policia Nacional y del Ministerio de la Mujer.
+Peru,PER,2009,154,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2010,139,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2011,123,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2012,122,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2013,111,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2014,100,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2015,103,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2016,105,Registro de Feminicidio del Ministerio Público del Perú.
+Peru,PER,2017,116,Registro de Feminicidio del Ministerio Público del Perú.
+Uruguay,URY,2008,25,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2009,26,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2010,35,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2011,26,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2012,27,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2013,27,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2014,26,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2015,29,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2016,24,Observatorio Violencia y Criminalidad del Ministerio del Interior.
+Uruguay,URY,2017,23,Observatorio Violencia y Criminalidad del Ministerio del Interior.

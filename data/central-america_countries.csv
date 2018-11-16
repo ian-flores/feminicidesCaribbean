@@ -1,0 +1,51 @@
+country,iso3,year,value,source_id
+Belize,BLZ,2012,3, Belize Police Department 
+Belize,BLZ,2013,8, Belize Police Department 
+Belize,BLZ,2014,12, Belize Police Department 
+Belize,BLZ,2015,9, Belize Police Department 
+Belize,BLZ,2016,15, Belize Police Department 
+Belize,BLZ,2017,9, Belize Police Department 
+Costa Rica,CRI,2005,27,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2006,15,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2007,21,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2008,33,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2009,39,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2010,31,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2011,42,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2012,26,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2013,18,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2014,24,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2015,27,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2016,26,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Costa Rica,CRI,2017,26,"Poder Judicial, Observatorio de Violencia de Género contra las Mujeres y Acceso a la Justicia"
+Guatemala,GTM,2013,282, Organismo Judicial  y Ministerio Público 
+Guatemala,GTM,2014,240, Organismo Judicial  y Ministerio Público 
+Guatemala,GTM,2015,201, Organismo Judicial  y Ministerio Público 
+Guatemala,GTM,2016,211, Organismo Judicial  y Ministerio Público 
+Guatemala,GTM,2017,221, Organismo Judicial  y Ministerio Público 
+Panama,PAN,2014,25," Ministério Público, Procuraduría General de la Nación "
+Panama,PAN,2015,29," Ministério Público, Procuraduría General de la Nación "
+Panama,PAN,2016,19," Ministério Público, Procuraduría General de la Nación "
+Panama,PAN,2017,18," Ministério Público, Procuraduría General de la Nación "
+Nicaragua,NIC,2005,17, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2006,16, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2007,28, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2008,18, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2009,32, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2010,42, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2011,45, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2012,76, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Nicaragua,NIC,2013,67, Comisaría de la Mujer de la Policía Nacional de Nicaragua 
+Honduras,HND,2005,290,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2006,175,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2007,202,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2011,295,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2012,335,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2013,319,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2014,408,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2015,312,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+Honduras,HND,2016,264,"Instituto Universitario en Democracia, Paz y Seguridad (IUDPAS) - Universidad Nacional Autónoma de Honduras (UNAH). Observatorio de Muertes Violentas de Mujeres y Femicidios."
+El Salvador,SLV,2014,186,Fiscalía General de la República
+El Salvador,SLV,2015,341,Fiscalía General de la República
+El Salvador,SLV,2016,356,Fiscalía General de la República
+El Salvador,SLV,2017,345,Fiscalía General de la República
