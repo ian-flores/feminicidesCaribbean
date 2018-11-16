@@ -1,5 +1,8 @@
 # feminicidesLATAM
 
+## Description
+This repo contains data for feminicides in Latin America and the Caribbean from the CEPAL.
+
 ## Blog Post in English Available Here:
 [http://www.bayesianpolitik.me/feminicidesLATAM/feminicides_en](http://www.bayesianpolitik.me/feminicidesLATAM/feminicides_en)
 
