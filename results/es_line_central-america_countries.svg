@@ -87,10 +87,10 @@
 <g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='330.80' y='478.40' style='font-size: 9.60px; fill: #555555; font-family: Arial;' textLength='21.36px' lengthAdjust='spacingAndGlyphs'>2015</text></g>
 <g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='358.82' y='478.40' style='font-size: 9.60px; fill: #555555; font-family: Arial;' textLength='21.36px' lengthAdjust='spacingAndGlyphs'>2016</text></g>
 <g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='386.84' y='478.40' style='font-size: 9.60px; fill: #555555; font-family: Arial;' textLength='21.36px' lengthAdjust='spacingAndGlyphs'>2017</text></g>
-<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='216.73' y='495.50' style='font-size: 12.00px; fill: #555555; font-family: Arial;' textLength='25.35px' lengthAdjust='spacingAndGlyphs'>Year</text></g>
-<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text transform='translate(14.57,307.76) rotate(-90)' style='font-size: 12.00px; fill: #555555; font-family: Arial;' textLength='123.38px' lengthAdjust='spacingAndGlyphs'>Number of Feminicides</text></g>
+<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='218.72' y='495.50' style='font-size: 12.00px; fill: #555555; font-family: Arial;' textLength='21.35px' lengthAdjust='spacingAndGlyphs'>Año</text></g>
+<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text transform='translate(14.57,308.76) rotate(-90)' style='font-size: 12.00px; fill: #555555; font-family: Arial;' textLength='125.38px' lengthAdjust='spacingAndGlyphs'>Número de feminicidios</text></g>
 <rect x='425.67' y='177.04' width='72.35' height='138.05' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' clip-path='url(#cpMHw1MDR8NTA0fDA=)' />
-<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='425.67' y='186.89' style='font-size: 12.00px; fill: #555555; font-family: Arial;' textLength='42.02px' lengthAdjust='spacingAndGlyphs'>Country</text></g>
+<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='425.67' y='186.89' style='font-size: 12.00px; fill: #555555; font-family: Arial;' textLength='24.01px' lengthAdjust='spacingAndGlyphs'>País</text></g>
 <rect x='425.67' y='194.13' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #36312C;' clip-path='url(#cpMHw1MDR8NTA0fDA=)' />
 <line x1='427.40' y1='202.77' x2='441.22' y2='202.77' style='stroke-width: 1.07; stroke: #DB784D; stroke-linecap: butt;' clip-path='url(#cpMHw1MDR8NTA0fDA=)' />
 <rect x='425.67' y='211.41' width='17.28' height='17.28' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #36312C;' clip-path='url(#cpMHw1MDR8NTA0fDA=)' />
@@ -112,5 +112,5 @@
 <g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='448.93' y='275.33' style='font-size: 9.60px; fill: #555555; font-family: Arial;' textLength='46.95px' lengthAdjust='spacingAndGlyphs'>Costa Rica</text></g>
 <g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='448.93' y='292.61' style='font-size: 9.60px; fill: #555555; font-family: Arial;' textLength='35.76px' lengthAdjust='spacingAndGlyphs'>Panama</text></g>
 <g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='448.93' y='309.89' style='font-size: 9.60px; fill: #555555; font-family: Arial;' textLength='26.15px' lengthAdjust='spacingAndGlyphs'>Belize</text></g>
-<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='44.47' y='16.29' style='font-size: 14.40px; font-weight: bold; fill: #555555; font-family: Arial;' textLength='352.11px' lengthAdjust='spacingAndGlyphs'>Number of Feminicides in Central America per Year</text></g>
+<g clip-path='url(#cpMHw1MDR8NTA0fDA=)'><text x='44.47' y='16.29' style='font-size: 14.40px; font-weight: bold; fill: #555555; font-family: Arial;' textLength='348.07px' lengthAdjust='spacingAndGlyphs'>Número de feminicidios en Centroamérica por Año</text></g>
 </svg>

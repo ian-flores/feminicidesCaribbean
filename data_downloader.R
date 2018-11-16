@@ -8,12 +8,12 @@ library(forcats)
 library(ggthemr)
 library(feather)
 ggthemr('earth')
-#lighten_swatch(0.3)
 
 source('src/get_indicator_response.R')
 source('src/get_country_id.R')
 source('src/get_data.R')
-source('src/save_results.R')
+source('src/save_results_en.R')
+source('src/save_results_es.R')
 
 indicator_id <- 2780 # femicides
 
@@ -42,9 +42,15 @@ latam_countries <- c("Argentina",
                      "Paraguay", "Peru", "Uruguay", 
                      "Venezuela (República Bolivariana de)")
 
-save_results(crb_countries, 'Caribbean', 'caribbean_countries', indicator_response)
+save_results_en(crb_countries, 'the Caribbean', 'caribbean_countries', indicator_response)
 
-save_results(ca_countries, 'Central America', 'central-america_countries', indicator_response)
+save_results_en(ca_countries, 'Central America', 'central-america_countries', indicator_response)
 
-save_results(latam_countries, 'Continental LATAM', 'continental-latam_countries', indicator_response)
+save_results_en(latam_countries, 'the Continental LATAM', 'continental-latam_countries', indicator_response)
 
+
+save_results_es(crb_countries, 'el Caribe', 'caribbean_countries', indicator_response)
+
+save_results_es(ca_countries, 'Centroamérica', 'central-america_countries', indicator_response)
+
+save_results_es(latam_countries, 'Latino América Continental', 'continental-latam_countries', indicator_response)
